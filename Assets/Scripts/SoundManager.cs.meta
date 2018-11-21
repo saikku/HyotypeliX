@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7084d934a1c8cc4fa56d10c2f765438
+timeCreated: 1509958828
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - efxSource: {fileID: 82875903034981356, guid: 797f50137b59e8b4298db02323bc1ac8,
+      type: 2}
+  - musicSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
